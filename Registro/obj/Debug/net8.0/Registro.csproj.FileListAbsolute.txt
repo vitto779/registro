@@ -1,0 +1,14 @@
+C:\Users\vitto\source\repos\Registro\bin\Debug\net8.0\Registro.exe
+C:\Users\vitto\source\repos\Registro\bin\Debug\net8.0\Registro.deps.json
+C:\Users\vitto\source\repos\Registro\bin\Debug\net8.0\Registro.runtimeconfig.json
+C:\Users\vitto\source\repos\Registro\bin\Debug\net8.0\Registro.dll
+C:\Users\vitto\source\repos\Registro\bin\Debug\net8.0\Registro.pdb
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.AssemblyInfoInputs.cache
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.AssemblyInfo.cs
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.csproj.CoreCompileInputs.cache
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.dll
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\refint\Registro.dll
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.pdb
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\Registro.genruntimeconfig.cache
+C:\Users\vitto\source\repos\Registro\obj\Debug\net8.0\ref\Registro.dll
